@@ -1,0 +1,5 @@
+name: Data pipeline
+on: 
+push:
+branches:[main]
+pull request: 
